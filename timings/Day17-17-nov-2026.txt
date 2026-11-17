@@ -1,0 +1,2 @@
+4 hours of kubernetes learning
+1 hour argoCD learning
