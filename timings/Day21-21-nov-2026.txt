@@ -1,0 +1,2 @@
+4 hours of kubernetes
+2 hours of new relic monitoring tool
