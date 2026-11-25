@@ -1,0 +1,2 @@
+3 hours of jenkins learning
+2 hours of Kubernetes learning
